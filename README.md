@@ -32,16 +32,16 @@ E.g., position 1 gave the driver 10 points, now it is 25 points. And from 1991 -
 
 The solution is to create the following system and apply it to every race result in every year:
 
-Rank 1 = 10 Points
-Rank 2 = 9 Points
-Rank 3 = 8 Points
-Rank 4 = 7 Points
-Rank 5 = 6 Points
-Rank 6 = 5 Points
-Rank 7 = 4 Points
-Rank 8 = 3 Points
-Rank 9 = 2 Points
-Rank 10 = 1 Point
+Rank 1 = 10 Points<br>
+Rank 2 = 9 Points<br>
+Rank 3 = 8 Points<br>
+Rank 4 = 7 Points<br>
+Rank 5 = 6 Points<br>
+Rank 6 = 5 Points<br>
+Rank 7 = 4 Points<br>
+Rank 8 = 3 Points<br>
+Rank 9 = 2 Points<br>
+Rank 10 = 1 Point<br>
 
 This allows for the average points per year KPI to be calculated and to determine the most dominant driver of modern Formula 1. Please check the main code file of this project: `sql_queries_driver_visualization.sql`.
 
